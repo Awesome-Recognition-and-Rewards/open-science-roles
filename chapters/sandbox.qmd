@@ -1,8 +1,8 @@
 ---
-title: sandbox 
+title: sandbox
 ---
 
-This is sandbox for practicing wiht Markdown
+This is sandbox for practicing with quarto templates and Markdown
 
 ## Section
 

@@ -1,0 +1,55 @@
+---
+title: Belang van Open Science bij de Hogeschool Utrecht
+---
+
+## Visie HU
+
+Open Science bij de HU komt op meerdere plaatsen en verschillende documenten terug. Hier zijn de relevante stukken uit die documenten en pagina’s gebundeld.
+### Open Science
+“Wij menen dat onderzoek echt waarde krijgt als het wordt uitgevoerd voor, in en met de praktijk, door middel van een participatieve aanpak. We betrekken belanghebbenden uit allerlei maatschappelijke groeperingen bij ons onderzoek. We willen dat zij er ook profijt van hebben. Vandaar dat we werken volgens het principe van open science. We willen met ons onderzoek een duurzame doorwerking realiseren in onderwijs en praktijk, die zowel op de korte als lange termijn zichtbaar is. Ons onderzoek is daadwerkelijk toegankelijk voor alle betrokkenen en dat geldt ook voor de inzichten die hieruit voortkomen. We werken continu aan het zichtbaar én inzichtelijk maken van de resultaten van ons onderzoek. We beperken ons niet tot één vorm van doorwerking, maar volgen diverse routes: van het ontwikkelen van concrete producten tot aan het beïnvloeden van gedrag bij professionals en het faciliteren van systeemverandering in specifieke sectoren, zoals de zorg of het voortgezet onderwijs.” (https://www.hu.nl/-/media/hu/documenten/over-de-hu/hu-visie-op-onderwijs-en-onderzoek_2022_nl.ashx)
+### Open Access
+Open Access publiceren is het uitgangspunt van de HU, tenzij dit onmogelijk is vanuit het oogpunt van wet- en regelgeving of andere bindende afspraken met derden. Je wordt als HU-onderzoeker daarom dringend gevraagd om je publicaties o.a. te plaatsen op openbare websites van de HU of op gezamenlijke websites in het hoger onderwijs. Wetenschappelijke artikelen in journals worden bij voorkeur en indien mogelijk, Open Access gepubliceerd. (https://bibliotheek.hu.nl/onderzoekers/publiceren-en-afronden-van-onderzoek/open-access-en-open-science/)
+::: {.callout-note}
+
+
+Ondersteunende documenten en training voor Open Science
+-	Het startpunt voor zoeken naar ondersteuning of training op het gebied van Open Science is te vinden bij de HU bibliotheek, op https://bibliotheek.hu.nl/onderzoekers/
+-	Open Science en Open Access stappenplan (https://bibliotheek.hu.nl/wp-content/uploads/2023/06/Flyer-Open-Access_09062023_def.pdf)
+-	Stroomschema Open Access publiceren (https://bibliotheek.hu.nl/wp-content/uploads/2019/08/Stroomschema-open-access-publiceren-2019.pdf)
+-	Kennisclip Open Access (https://www.youtube.com/watch?v=Ne8kTJ0-fEM)
+-	Open Access Journal Browser (https://www.openaccess.nl/nl)
+-	Directory of Open Access Journals (https://doaj.org/)
+:::
+
+
+##Open Science gerelateerde functies
++ Data stewards
++ Open Science kwartiermaker
++ Open Access adviseur
++ Informatiespecialist
+
+## Mensen, groepen en pagina’s
++ Peer support group Open Science (teams)
++ Groep open science (éénHU)
++ Pagina over open access en open science: https://bibliotheek.hu.nl/onderzoekers/publiceren-en-afronden-van-onderzoek/open-access-en-open-science/
++ Open Science Community Utrecht (https://openscience-utrecht.com/)
+
+## Financiële ondersteuning
+
+De HU heeft een Stimuleringsfonds Open Access beschikbaar om open access publiceren te stimuleren. Hieruit kunnen de kosten (APC’s) worden betaald, indien deze niet zijn gedekt vanuit een lopende subsidie, uitgeversdeal of andere middelen. Het stimuleringsfonds wordt beheerd door de HU Bibliotheek. Voor artikelen is maximaal €2500 (excl. BTW) beschikbaar voor APC’s. Als de APC’s boven de €2500 komen, dan wordt er alleen een vergoeding tot € 2500 uitgekeerd. Voor open access boeken is een maximale vergoeding van €4.000 per titel beschikbaar. Voor meer informatie zie de Regeling Hogeschool Utrecht Stimuleringsfonds Open Access (https://een.hu.nl/groep-media/onderzoeksupport/30032024regeling-hu-stimuleringsfonds-open-access)
+
+## Relevante (Inter)nationale open science strategieën en beleid
++ De Berlin declaration on open access is ondertekend door de Vereniging Hogescholen (VH) en wordt daarmee door de HU onderschreven. De Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities (2003) (https://openaccess.mpg.de/Berlin-Declaration) stelt dat wetenschappelijke kennis een publiek goed is en vrij toegankelijk moet zijn via het internet; zij definieert Open Access als het recht voor gebruikers om onderzoeksresultaten vrij te lezen, downloaden, kopiëren, verspreiden en hergebruiken (met correcte naamsvermelding), en roept instellingen en onderzoekers op om Open Access actief te bevorderen door o.a. het publiceren in Open Access tijdschriften en het deponeren van publicaties en bijbehorende data in open repositories, met aandacht voor kwaliteit, duurzaamheid, interoperabiliteit en het behoud van auteursrechten.
++ Het Nationaal plan Open Science (2017) is door de VH ondertekend en door de HU onderschreven. Het Nationaal Plan Open Science (NPOS) richt zich op het bevorderen van open en transparante wetenschap door open access tot wetenschappelijke publicaties als norm te stellen, verantwoord hergebruik en delen van onderzoeksdata te stimuleren (FAIR-principes), en nieuwe vormen van waarderen en erkennen van onderzoekers te bevorderen naast publicaties alleen. Daarnaast zet het plan in op open leer- en onderzoekspraktijken, betere digitale infrastructuren, borging van onderzoeksintegriteit en ethiek, en nauwe samenwerking tussen wetenschap, maatschappij en bedrijfsleven om de kwaliteit, efficiëntie en maatschappelijke impact van onderzoek te vergroten.
+( https://repository.tudelft.nl/record/uuid:9e9fa82e-06c1-4d0d-9e20-5620259a6c65)
++ Het NPOS is opgevolgd door het Nationaal programma open science. Het NPOS2030 Ambition Document and Rolling Agenda (https://zenodo.org/records/7433767) schetst de gezamenlijke Nederlandse visie om in 2030 open science de standaard te maken, met als doel grotere wetenschappelijke kwaliteit, transparantie en maatschappelijke impact. Het beschrijft leidende principes, een heldere definitie van open science, en strategische doelstellingen zoals open toegang tot publicaties, FAIR‑data, open software, citizen science en een cultuur van waarderen en erkennen die open‑sciencepraktijken beloont. De bijbehorende Rolling Agenda is een dynamisch, door de gemeenschap gedragen actieplan dat concrete doelen en prioriteiten uitwerkt en periodiek wordt aangepast om in te spelen op nieuwe ontwikkelingen, waarbij overheid, kennisinstellingen, financiers en onderzoekers gezamenlijk verantwoordelijkheid dragen voor de implementatie.
++ Voor subsidies van de NWO geldt dat PlanS van kracht is. Plan S is een internationaal initiatief dat als doel heeft dat wetenschappelijke publicaties die voortkomen uit publiek gefinancierd onderzoek direct volledig open access beschikbaar zijn. Het verbiedt embargo’s, stimuleert publicatie in volledig open access‑tijdschriften of platforms, en staat publicatie in hybride tijdschriften alleen toe onder strikte voorwaarden. Daarnaast vereist Plan S dat auteurs hun auteursrechten behouden en dat publicaties verschijnen onder een open licentie (bij voorkeur CC BY), met als doel transparantie, hergebruik en snellere verspreiding van wetenschappelijke kennis te bevorderen. (https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/principles-and-implementation/)
+
+
+
+::: {.callout-note collapse="true"}
+## About this document
+This page was created on April 1st 2026, by Daan Ornee.
+Contributors: Daan Ornee, Sanli Faez
+Last updated: April 1st 2026.
+:::

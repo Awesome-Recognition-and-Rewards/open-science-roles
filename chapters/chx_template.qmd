@@ -1,0 +1,29 @@
+---
+title: Workflow for creating a beginners' guide to Open Science practices at [institution]
+---
+
+__the idea behind this document is to be a guide for supervisors for a conversation with their mentees. The focus is on introducing the resources accessible at the university/institution, and the types of rewards and opportunities that exist__
+
+## Significance of Open Science at [institution]
+
+__put a summary of the Open Science policy and indicated in the official (strategy) documents of the unit and link to the full text__
+
+## Education resources to look at for gaining open science skills
+
+__put a list of courses or educational resources offered by the institution, especially indicating to those that are recommended or financially supported.__
+
+## Open Science Roles (unofficially) accepted by [institution]
+
+__which official or unofficial roles are accepted at the institution under the broad umbrella of mainly focusing on Open Science. Examples are Data stewards, Open Access advisor, Public engagement, and science communication__
+
+## People to know, places to visit
+
+__are there role-models or people working with Open Science at the institution that are willing to share their experiences and insights? Are there any local or national Open Science networks that you can join?__
+
+## Financial support from the university
+
+__does the university provide financial support for Open Science initiatives, practices, or trainings?__
+
+## Other forms of rewarding and encouragement
+
+__what other forms of rewarding and encouragement are available to Open Science practitioners at the institution?__
