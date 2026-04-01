@@ -2,8 +2,9 @@
   {
     "listing": "/chapters.html",
     "items": [
+      "/chapters/chx_hoogschoolutrecht.html",
       "/chapters/chx_utrechtuniv.html",
-      "/chapters/example.html",
+      "/chapters/chx_template.html",
       "/chapters/sandbox.html"
     ]
   }
