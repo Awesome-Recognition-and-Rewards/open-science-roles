@@ -1,17 +1,16 @@
 ---
 title: Welcome to the Awesome Open Science Handbook
-
 ---
 A Living Resource Built By and For Our Community
 
 Hello, and thank you for being here! Whether you're a seasoned researcher, an early-career scientist, a librarian, a research administrator, or simply someone passionate about making science more open and reproducible, this handbook is for you.
 
 
-## What This Is
+# What This Is
 
 This is a collective knowledge repository—a growing, evolving resource created by members of the open science community to document, share, and refine how instition encourage and facilitate the practices that make research more transparent, accessible, and impactful. It's not a top-down mandate. It's a conversation.
 
-## Why It Matters
+# Why It Matters
 
 Open science isn't just about publishing open access papers. It's about:
 
@@ -21,7 +20,7 @@ Open science isn't just about publishing open access papers. It's about:
 + Creating space for diverse voices and perspectives
 + Learning from each other's successes and challenges
 
-## How You Can Help
+# How You Can Help
 
 You don't need permission to contribute. Whether you want to:
 
@@ -33,17 +32,18 @@ You don't need permission to contribute. Whether you want to:
 
 ...we welcome your input. This handbook grows stronger with every contribution.
 
-## Getting Started
+# Getting Started
 
-+ (Browse existing sections)[link] to see what's already here
-+ (Learn how to contribute)[howto] — it's easier than you might think
++ (Browse existing sections)[./chapters.html] to see what's already here
++ (Learn how to contribute)[./howto.html] — it's easier than you might think
 
-## Credit
+# Credit
 
 This repository has been started at the Netherland Open Science Retreat 2026 in Utrecht.
 
-### Contributor: (in order of engagement):
+## Contributors (in order of engagement):
+
 - Sanli Faez, Programme Manager of Recognition and Rewards at UNL
-- Nami Sunami, 
+- Nami Sunami,
 - Rashmi Shetti, Open Access advisor at Utrecht University
 - Daan Ornee
