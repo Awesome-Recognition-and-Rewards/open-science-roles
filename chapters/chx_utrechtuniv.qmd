@@ -21,6 +21,7 @@ The [Utrecht University Open Science Office](https://www.uu.nl/en/research/open-
 Utrecht University's [Open Science webpage](https://www.uu.nl/en/research/open-science) and its links primarily provide workshops, training initiatives, and educational projects focused on open science skills like open access publishing, FAIR data management, collaborative research tools, and integrating open science into curricula.
 
 A selected (non-exhaustive) list of trainings include:
+
 + __Library Workshops__: Two main interactive sessions—"Open Science: a general introduction" (covering open access, FAIR data, incorporating open practices into routines, barriers, and motivations) and "Open Science: opening up your research workflow" (practical tips on collaborative writing, code sharing, altmetrics, pre-registration, and open tools/platforms, customizable for groups).
 + __Educational Integration Project__: "Transferable pedagogies for an Open Science mindset and skillset" builds an interdisciplinary teacher community, pilots Open Science resources across education levels, creates open educational resources (OER), and applies scholarly evaluation to embed OS values like transparency and collaboration into curricula.
 + __Data Management Trainings__: Specific [guidance on writing Data Management Plans](https://www.uu.nl/en/research/research-data-management/training-workshops/online-training-learn-to-write-your-dmp) (DMPs), using platforms like Yoda and DataverseNL for data handling.
@@ -32,6 +33,7 @@ A selected (non-exhaustive) list of trainings include:
 
 Utrecht University recommends that researchers develop skills across several key open science areas:
 Core competencies include:
+
 + Collaborative writing and code sharing – ability to work on documents and software collaboratively with peers
 +	Data management – writing Data Management Plans (DMPs) and using platforms like Yoda or DataverseNL
 +	Open access publishing – understanding and implementing open access dissemination practices
@@ -51,6 +53,7 @@ These skills are intended to be embedded throughout researchers' careers, from e
 
 + [Open Science Community Utrecht](https://www.osc-utrecht.nl) (OSCU): Bottom-up group founded in 2018 for knowledge exchange, workshops, symposia, OSCoffee hours, podcasts, and policy input; over 300 members across faculties and career stages; financially supported by UU; has faculty ambassadors and inspired national/international networks like INOSC. 
 + Faculty Open Science Team (FOST): Operates at faculty level (e.g., [Faculty of Science](https://www.uu.nl/en/organisation/faculty-of-science/about-us/open-science), UMC Utrecht) to implement OS themes like FAIR data, open access, reproducibility; collects ideas, removes barriers, provides tools; Their roles include:
+
   + Advisory function: Provide advice to the Faculty Board on translating university strategic open science principles into faculty context. 
   + Action initiation: Propose and start open science actions and projects within the faculty. 
   + Coordination and connection: Link horizontally/vertically between university Open Science Programme, tracks, and faculty activities; include at least one Fellow per track (Open Access, FAIR data/software, Public Engagement, Recognition & Rewards), a Utrecht University Open Science Platform member, and OSCU Faculty Ambassador.
